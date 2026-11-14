@@ -1,4 +1,4 @@
-# Hang On — AI Call Screening
+# Hang On — Real-Time AI Scam Call Screening
 
 **A real-time voice AI prototype that screens unknown callers, identifies suspicious behaviour, and hands approved calls to a human receiver.**
 
